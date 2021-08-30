@@ -1,3 +1,5 @@
+#тестирую pull request
+
 #1 пункт
 age = 20
 sex = 'M'
